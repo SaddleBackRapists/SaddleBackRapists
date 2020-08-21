@@ -1,7 +1,6 @@
 title: Saddle Back Rapists
 description:  ANTIPROCTORING
 
-...
 defaults:
   -
     scope:
@@ -11,4 +10,3 @@ defaults:
       layout: "project"
       author: "Mr. Hyde"
       category: "project"
-...
